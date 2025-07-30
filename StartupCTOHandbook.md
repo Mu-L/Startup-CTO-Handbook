@@ -3371,7 +3371,7 @@ I hope this handbook has been a helpful reference guide for you with the challen
 
 I've done my best to provide some structure on meeting those challenges, though every situation is unique, and ultimately the path you take is yours to devise and the results are yours to own.
 
-At some point in life, one gets asked: What advice would you give to the younger version of yourself? is handbook is my answer to that question.
+At some point in life, one gets asked: What advice would you give to the younger version of yourself? This handbook is my answer to that question.
 
 I hope it helps you in your journey to build powerful technology, motivated and empowered teams, and successful businesses, and, most of all, have fun and do some good for the world.
 
